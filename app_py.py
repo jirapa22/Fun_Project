@@ -1,6 +1,7 @@
-import streamlit as st  # แก้จาก steamlit เป็น streamlit
+import streamlit as st 
 import random
 
+st.set_page_config(layout="wide")
 st.title('Test Streamlit')
 st.write('Hello World!')
 

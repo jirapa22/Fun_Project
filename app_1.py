@@ -10,4 +10,3 @@ with col1.container():
 
 cc2 = col2.container(height=150)
 cc2.write("Container 2 @ Column 2")
-```
